@@ -1,4 +1,4 @@
 bio
 ===
 
-Bio for speaking gigs, applications, and general whatnotery.
+Bios for speaking gigs, applications, and general whatnotery.
